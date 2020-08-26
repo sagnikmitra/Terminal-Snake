@@ -96,7 +96,7 @@ void Draw()
 	for (int i = 0; i < wall_width + 2; i++)
 		cout << "\xB2";
 	cout << endl;
-	cout << "Made by Sagnik Mitra\nLinkedIn: https://www.linkedin.com/in/sagnik-mitra-36742b178/ \nScore:" << score << endl;
+	cout << "Made by Sagnik Mitra\nLinkedIn: https://www.linkedin.com/in/sagnikmitra/ \nScore:" << score << endl;
 }
 
 //input function to access input from Keyboard,
